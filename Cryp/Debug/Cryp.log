@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\yogan\desktop\c ++ programs\cryp\cryp\message.h(6): warning C4018: '<': signed/unsigned mismatch
+c:\users\yogan\desktop\c ++ programs\cryp\cryp\output.h(6): warning C4018: '<': signed/unsigned mismatch
+c:\users\yogan\desktop\c ++ programs\cryp\cryp\key.h(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\yogan\desktop\c ++ programs\cryp\cryp\encrypt.h(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\yogan\desktop\c ++ programs\cryp\cryp\decrypt.h(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\yogan\desktop\c ++ programs\cryp\cryp\decrypt.h(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\yogan\desktop\c ++ programs\cryp\cryp\ui.h(431): warning C4101: 'enter': unreferenced local variable
+  Cryp.vcxproj -> C:\Users\yogan\Desktop\C ++ Programs\Cryp\Debug\Cryp.exe
+  Cryp.vcxproj -> C:\Users\yogan\Desktop\C ++ Programs\Cryp\Debug\Cryp.pdb (Partial PDB)
